@@ -1,7 +1,7 @@
 # PORTFOLIO
 
-## hizaifayasin.com is my live protfolio website hosted on [GitHub Pages](https://pages.github.com/).
-### Languages and Frameworks used 
+## [huzaifayasin.com](https://www.huzaifayasin.com/). is my live protfolio website hosted on [GitHub Pages](https://pages.github.com/).
+### List of Languages and Frameworks used 
 ```
 HTML5
 CSS3
